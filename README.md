@@ -4,4 +4,4 @@ The paper proposes a data-driven approach that combines several risk factors and
 
 The repo includes:
 
-- [database.rds](https://drive.google.com/file/d/1a8iEv5HARQxLT9VgUK6e5RA0TNdJLPJa/view?usp=drive_link): 
+- [database.rds](https://drive.google.com/file/d/1a8iEv5HARQxLT9VgUK6e5RA0TNdJLPJa/view?usp=drive_link): link to download the data set.
