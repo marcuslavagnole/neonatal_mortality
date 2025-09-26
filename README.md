@@ -4,4 +4,10 @@ The paper proposes a data-driven approach that combines several risk factors and
 
 The repo includes:
 
+- **main.R**: run the following files to produce the main results.
+  - **data_preparation.R**:
+  - **ML_train_predict.R**:
+  - **ML_performance.R**:
+  - **bias_analysis.R**:
+  - **proportion_analysis.R**:
 - [database.rds](https://drive.google.com/file/d/1a8iEv5HARQxLT9VgUK6e5RA0TNdJLPJa/view?usp=drive_link): link to download the data set.
