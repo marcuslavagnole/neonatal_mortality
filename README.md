@@ -4,7 +4,7 @@ The paper proposes a data-driven approach that combines several risk factors and
 
 The repo includes:
 
-- **main.R**: run the following files to produce the main results.
+- **main.R**: run the following files to reproduce the main results.
   - **data_preparation.R**:
   - **ML_train_predict.R**:
   - **ML_performance.R**:
