@@ -11,3 +11,4 @@ The repo includes:
   - **bias_analysis.R**:
   - **proportion_analysis.R**:
 - [database.rds](https://drive.google.com/file/d/1a8iEv5HARQxLT9VgUK6e5RA0TNdJLPJa/view?usp=drive_link): link to download the data set.
+- **var_dictionary.rds**:
