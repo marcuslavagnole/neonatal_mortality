@@ -5,11 +5,12 @@ The paper proposes a data-driven approach that combines several risk factors and
 The repo includes:
 
 - **main.R**: run the following files to reproduce the main results.
-  - **auxiliary_functions_ML.R**:
-  - **data_preparation.R**:
-  - **ML_train_predict.R**:
-  - **ML_performance.R**:
-  - **bias_analysis.R**:
-  - **proportion_analysis.R**:
+  - **auxiliary_functions_ML.R**: auxiliary functions used in the analysis;
+  - **data_preparation.R**: feature engineering and train-test split;
+  - **ML_train_predict.R**: train the algorithms and make predictions;
+  - **ML_performance.R**: evaluate predictive performance (traditional and policy-oriented metrics);
+  - **bias_analysis.R**: evaluate the impact on disadvantaged populations;
+  - **proportion_analysis.R**: evaluate the proportion of individuals selected.
 - [database.rds](https://drive.google.com/file/d/1a8iEv5HARQxLT9VgUK6e5RA0TNdJLPJa/view?usp=drive_link): link to download the data set.
-- **var_dictionary.rds**:
+- **var_dictionary.rds**: features type.
+- **bootstrap_testsample.R**: stratified bootstrap to produce confidence intervals. 
